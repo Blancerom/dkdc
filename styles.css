@@ -1,0 +1,133 @@
+footer{
+  background-color: white;
+}
+h1{
+  font-family: 'Montserrat-black', sans-serif;
+  font-size: 3.5rem;
+  line-height: 1.5;
+}
+hr{
+    width: 5%;
+    border:none;
+    border-top: dotted;
+    border-width: 10px;
+    color: grey;
+    margin-top:50px;;
+  }
+  #features
+  {
+    background-color: white;
+    padding: 3% 10%;
+    position:relative;
+  }
+  #title{
+    background-color: #ff4c68;
+    color: #ffffff;
+  }
+  #testimonials{
+    text-align: center;
+    background-color: #ff4c68;
+    color: white;
+  }
+  #press{
+    background-color:#ff4c68;
+    text-align: center;
+    padding-bottom: 3%
+  }
+  #pricing{
+    padding: 3rem 1rem 2rem 1rem;
+    text-align: center;
+  }
+  #cta{
+    color: white;
+    background-color: #ff9c71;
+    text-align:center;
+    padding: 2rem 1rem 0rem 1rem;
+  }
+
+  @media (max-width: 1028px) {
+  .dogimage{
+    width: 60%;
+    transform: rotate(0);
+    position: static;
+    text-align: center;
+    right: 0;
+    }
+  }
+  @media (max-width:1028px){
+    #title{
+      text-align: center;
+    }
+  }
+.container-fluid{
+  padding: 3% 15% 7% 15%;
+}
+.navbar{
+  text-align:center;
+  padding-bottom: 0 0 4.5rem;
+}
+.navbar-brand{
+  font-size: 2.3rem;
+  text-decoration: underline;
+  font-family: 'Satisfy', cursive;
+}
+.nav-item{
+  padding: 0 15px;
+}
+.navlink{
+  font-size: 1.2rem;
+  font-family: 'Montserrat-light';
+}
+.download-button{
+  margin: 5% 3% 5%;
+}
+.dogimage{
+  width: 60%;
+  transform: rotate(25deg);
+  position: absolute ;
+  right: 20%;
+}
+.second
+{
+font-size: 1.5rem;
+font-family: 'Montserrat-bold';
+text-align: center;
+line-height: 1.5
+}
+.content{
+  text-align: center;
+  line-height: 1.5;
+  color: #8f8f8f;
+}
+.fat{
+  color: #ef8172;
+  margin-bottom: 10px;
+}
+.fat:hover{
+  color: #ff4c68;
+}
+.test{
+  line-height: 1.5;
+  font-family: 'Montserrat-bold';
+}
+.dpc{
+  width: 15%;
+  border-radius :100%;
+}
+.presslogo{
+  width: 15%;
+  padding: 20px 30px 30px 30px;
+}
+.carousel-item{
+  padding: 9% 7%;
+}
+.jj {
+  text-align: center;
+}
+.download-button-1{
+  margin: 2% 1% 2%;
+}
+.back{
+  text-align: center;
+  background-color: WHITE;
+}
